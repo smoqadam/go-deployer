@@ -1,0 +1,6 @@
+projects:
+    - name: "smoqadam/blog" 
+      dir: "/home/saeed/projects/blog"
+      commands:
+        - ls
+      onFailure: ls
